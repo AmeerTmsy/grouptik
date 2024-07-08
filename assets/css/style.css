@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   z-index: 997;
   transition: all 0.5s;
   padding: 15px 0;
-  background: #fef8f5;
+  background: #ffe2fb;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -497,7 +497,7 @@ section {
 --------------------------------------------------------------*/
 
 #about {
-  background-color: #fef8f5;
+  background-color: #ffe1fb;
 }
 #about > .container{
   padding: 5rem 1rem;
